@@ -1,4 +1,5 @@
 run_venv.bat
+build-windows.py
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
